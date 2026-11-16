@@ -1,6 +1,6 @@
 # Documentação Técnica: Módulo de Energia e Sustentabilidade — Citizen Assist AI
 
-Materia: 
+Materia: Soluções em Energias Renováveis e Sustentáveis - SERS
 
 Integrantes:
 
